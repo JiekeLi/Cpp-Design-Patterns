@@ -41,13 +41,19 @@
 ## 从封装变化角度对模式分类
 ### 组件协作：
 + [Template Method](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Template%20Method)
++ [Template-Pattern(Head-First版)](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Template-Pattern)
 + [Observer/Event](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Observer)
++ [Observer(Head-First版)](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Observer-Pattern)
 + [Strategy](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Strategy)
++ [Strategy(Head-First版)](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Strategy-Pattern)
 ### 单一职责：
 + [Decorator](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Decorator)
++ [Decorator(Head-First版)](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Decorator-Pattern)
 + [Bridge](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Bridge)
 ### 对象创建:
 + [Factory Method](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Factory%20Method)
++ [Factory(Head-First版)](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Factory-Pattern)
++ [Bridge](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Bridge)
 + [Abstract Factory](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Abstract%20Factory)
 + [Prototype](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Prototype)
 + [Builder](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Builder)
@@ -68,6 +74,7 @@
 + [Chain of Resposibility(职责链)](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Chain%20of%20Resposibility)
 ### 行为变化：
 + [Command](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Command)
++ [Command(Head-First版)](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Command-Pattern)
 + [Visitor](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Visitor)
 ### 领域问题：
 + [Interpreter](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Interpreter)
